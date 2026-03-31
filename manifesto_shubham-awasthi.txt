@@ -1,0 +1,9 @@
+----------------------------------------
+        Open Source Manifesto
+Author : Shubham Awasthi
+Date   : 31 March 2026
+----------------------------------------
+
+On 31 March 2026, I define open source as a symbol of Expressing Freely. Tools like Github demonstrate how collaboration can create powerful solutions. In the future, I aim to develop Open Source Softwares and contribute it openly, enabling others to learn, adapt, and innovate without limitations.
+
+----------------------------------------
